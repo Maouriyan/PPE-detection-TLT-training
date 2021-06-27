@@ -25,7 +25,7 @@
        - To run the application , update your model in /models in https://github.com/Maouriyan/PPE-detection-deepstream
 
 
-###Citations 
+### Citations 
 
 https://github.com/NVIDIA-AI-IOT/face-mask-detection
 https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT
