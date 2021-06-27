@@ -27,8 +27,8 @@
 
 ### Citations 
 
--https://github.com/NVIDIA-AI-IOT/face-mask-detection
--https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT
+- https://github.com/NVIDIA-AI-IOT/face-mask-detection
+- https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT
 
           
           
