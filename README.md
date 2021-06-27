@@ -1,6 +1,6 @@
 # PPE-detection-TLT-training
 
-To check how to run application : https://github.com/NVIDIA-AI-IOT/face-mask-detection
+To check how to run application : https://github.com/Maouriyan/PPE-detection-deepstream
 
 ## Steps to perform PPE Detection:
 
