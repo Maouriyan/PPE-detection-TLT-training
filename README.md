@@ -1,5 +1,7 @@
 # PPE-detection-TLT-training
 
+To check how to run application : https://github.com/NVIDIA-AI-IOT/face-mask-detection
+
 ## Steps to perform PPE Detection:
 
 - Install dependencies and Docker Container <br/>
